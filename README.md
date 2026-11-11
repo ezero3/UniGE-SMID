@@ -2,7 +2,7 @@
 
 Welcome to my UniGe SMID Projects repository!
 
-This repository collects the main projects developed during my Bachelor's Degree in Mathematical Statistics & Data Management.  
+This repository collects the main projects and some laboratories developed during my Bachelor's Degree in Mathematical Statistics & Data Management.  
 Its primary goal is to showcase my work, technical skills and applied experience in data analysis, statistical modeling and programming.
 I have to underline that most of the projects I am sharing in this folder were developed with the collaboration of my other colleagues, you can find their linkedin account at the end of this script.
 
@@ -80,15 +80,30 @@ Identified patterns in price, fuel efficiency and regional manufacturing differe
 
 ### 🔹 Machine Learning
 
-**Algal Bloom Prediction (R)**  
-Developed predictive models to classify hazardous algal blooms using environmental data.  
-Techniques applied:
-- Decision Trees, Random Forests  
-- SVM, KNN, XGBoost  
-- Class imbalance handling (ROSE)  
+This folder contains the practical materials, Jupyter Notebooks and written lab reports developed during the **Machine Learning** course. 
 
-Evaluated models using AUC, accuracy and sensitivity.  
-Highlighted key environmental drivers of bloom risk.
+The repository covers fundamental concepts and algorithms of Machine Learning, ranging from synthetic data generation to supervised and unsupervised learning techniques. For each laboratory session, both the implementation code (.ipynb) and detailed written reports in Italian (.pdf) are provided.
+
+---
+
+### Topics Covered
+
+* **Lab 0 — Data Generation:** Synthetic dataset creation and data preparation workflows.
+* **Lab 1 — K-Nearest Neighbors (k-NN):** Implementation and analysis of $k$-NN algorithms, including advanced variants.
+* **Lab 2 — Regularized Least Squares (RLS):** Linear regression models and regularization techniques.
+* **Lab 3 — Logistic Regression:** Classification modeling, probabilistic approaches, and evaluation metrics.
+* **Lab 4 — Kernel Regularized Least Squares (KRLS):** Non-linear regression using kernel methods and extensions.
+* **Lab 5 — Neural Networks (NN):** Multi-layer perceptrons, architecture building and image classification.
+* **Lab 6 — Orthogonal Matching Pursuit (OMP):** Sparse representations, feature selection and dictionary learning techniques.
+* **Lab 7 — K-Means Clustering:** Unsupervised learning
+
+---
+
+For each laboratory (`Lab0` to `Lab7`), you will find:
+* **`*.ipynb`**: Jupyter Notebooks containing code implementations, experiments, and visual outputs.
+* **`*.pdf`**: Detailed reports written in Italian explaining the theoretical background, implementation details, parameter tuning and discussion of experimental results.
+
+---
 
 ### 🔹 Biostatistics
 
