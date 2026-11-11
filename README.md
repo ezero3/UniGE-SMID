@@ -128,14 +128,6 @@ Analyzed heart rate response under different diets and exercise types:
 - Multivariate linear models  
 - Repeated measures ANOVA  
 - Hypothesis testing using Wilks, Pillai, Hotelling-Lawley, Roy statistics
-
-### 🔹 Internship Project (py)
-
-## 🛠️ Tools & Technologies
-
-- **Languages:** R, Python, Java, SAS, SQL  
-- **Skills:** Statistical modeling, sampling theory, time series analysis, team working, organisation and pipeline of a project
-
 ---
 
 ## 📂 Repository Structure
